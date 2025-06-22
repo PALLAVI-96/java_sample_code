@@ -11,3 +11,9 @@ Addition.java; Adding 2 numbers
 javac Addition.java
 
 java Addition
+
+Cond.java; if ondition
+
+Loop.java; while loop
+
+Forloop.java; for loop
